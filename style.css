@@ -1,6 +1,7 @@
+
 .container{
     display: flex;
-    margin: 5px 20px;
+    width: 80%;
 
    
 }
@@ -56,13 +57,12 @@ h1{
     margin: 10px;
     background-color: #fc0a0a8a;
 }
-#b-size{
-    box-sizing: border-box;
-    
-}
+
 footer{
     text-align: center;
     background-color:black;
     border-radius: 1opx;
-    color: white;
-}
+    color: white;}
+    #mission22 img{
+        width: 70%;
+    }
